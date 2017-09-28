@@ -1,0 +1,615 @@
+	{
+		"VFRI & VCLMB": [{
+				"weight": "18000",
+				"vfriFlap5": "116",
+				"vfriFlap10": "110",
+				"vfriFlap15": "107",
+				"vClimb": "130"
+			},
+			{
+				"weight": "20000",
+				"vfriFlap5": "120",
+				"vfriFlap10": "112",
+				"vfriFlap15": "109",
+				"vClimb": "131"
+			},
+			{
+				"weight": "22000",
+				"vfriFlap5": "126",
+				"vfriFlap10": "118",
+				"vfriFlap15": "115",
+				"vClimb": "137"
+			},
+			{
+				"weight": "24000",
+				"vfriFlap5": "132",
+				"vfriFlap10": "123",
+				"vfriFlap15": "120",
+				"vClimb": "143"
+			},
+			{
+				"weight": "26000",
+				"vfriFlap5": "137",
+				"vfriFlap10": "128",
+				"vfriFlap15": "125",
+				"vClimb": "148"
+			},
+			{
+				"weight": "28000",
+				"vfriFlap5": "142",
+				"vfriFlap10": "134",
+				"vfriFlap15": "130",
+				"vClimb": "154"
+			},
+			{
+				"weight": "29000",
+				"vfriFlap5": "146",
+				"vfriFlap10": "137",
+				"vfriFlap15": "133",
+				"vClimb": "158"
+			}
+		],
+
+		"FLAPS 5": [{
+			"18000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "102/116",
+					"2000Altitude": "102/115",
+					"4000Altitude": "102/114",
+					"6000Altitude": "102/113",
+					"8000Altitude": "102/112",
+					"10000Altitude": "103/111"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "102/114",
+					"2000Altitude": "102/113",
+					"4000Altitude": "102/112",
+					"6000Altitude": "103/111",
+					"8000Altitude": "103/110",
+					"10000Altitude": "103/109"
+				}
+			},
+			"20000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "105/115",
+					"2000Altitude": "106/114",
+					"4000Altitude": "107/113",
+					"6000Altitude": "107/113",
+					"8000Altitude": "108/112",
+					"10000Altitude": "110/111"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "107/113",
+					"2000Altitude": "108/112",
+					"4000Altitude": "108/112",
+					"6000Altitude": "110/111",
+					"8000Altitude": "110/111",
+					"10000Altitude": "112/111"
+				}
+			},
+			"22000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "112/117",
+					"2000Altitude": "113/117",
+					"4000Altitude": "113/117",
+					"6000Altitude": "114/117",
+					"8000Altitude": "115/117",
+					"10000Altitude": "116/117"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "113/117",
+					"2000Altitude": "114/117",
+					"4000Altitude": "115/117",
+					"6000Altitude": "116/117",
+					"8000Altitude": "117/117",
+					"10000Altitude": "118/117"
+				}
+			},
+			"24000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "118/122",
+					"2000Altitude": "119/122",
+					"4000Altitude": "120/122",
+					"6000Altitude": "120/122",
+					"8000Altitude": "121/122",
+					"10000Altitude": "122/122"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "120/122",
+					"2000Altitude": "120/122",
+					"4000Altitude": "121/122",
+					"6000Altitude": "122/122",
+					"8000Altitude": "123/122",
+					"10000Altitude": "124/122"
+				}
+			},
+			"26000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "124/127",
+					"2000Altitude": "125/127",
+					"4000Altitude": "126/127",
+					"6000Altitude": "126/127",
+					"8000Altitude": "127/127",
+					"10000Altitude": "128/127"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "126/127",
+					"2000Altitude": "126/127",
+					"4000Altitude": "127/127",
+					"6000Altitude": "128/127",
+					"8000Altitude": "129/127",
+					"10000Altitude": "130/127"
+				}
+			},
+			"28000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "130/132",
+					"2000Altitude": "131/132",
+					"4000Altitude": "131/132",
+					"6000Altitude": "132/132",
+					"8000Altitude": "133/132",
+					"10000Altitude": "134/132"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "131/132",
+					"2000Altitude": "132/132",
+					"4000Altitude": "133/132",
+					"6000Altitude": "134/132",
+					"8000Altitude": "135/132",
+					"10000Altitude": "136/132"
+				}
+			},
+			"29000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "133/135",
+					"2000Altitude": "134/135",
+					"4000Altitude": "135/135",
+					"6000Altitude": "136/135",
+					"8000Altitude": "137/135",
+					"10000Altitude": "138/135"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "135/135",
+					"2000Altitude": "136/135",
+					"4000Altitude": "137/135",
+					"6000Altitude": "138/135",
+					"8000Altitude": "138/135",
+					"10000Altitude": "140/135"
+				}
+			}
+		}],
+
+		"FLAPS 10": [{
+			"18000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "100/111",
+					"2000Altitude": "100/110",
+					"4000Altitude": "100/110",
+					"6000Altitude": "100/109",
+					"8000Altitude": "100/108",
+					"10000Altitude": "100/107"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "100/109",
+					"2000Altitude": "100/109",
+					"4000Altitude": "100/109",
+					"6000Altitude": "100/107",
+					"8000Altitude": "---/106",
+					"10000Altitude": "---/105"
+				}
+			},
+			"20000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "100/110",
+					"2000Altitude": "100/109",
+					"4000Altitude": "100/109",
+					"6000Altitude": "100/108",
+					"8000Altitude": "100/107",
+					"10000Altitude": "101/106"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "100/108",
+					"2000Altitude": "100/108",
+					"4000Altitude": "100/107",
+					"6000Altitude": "100/106",
+					"8000Altitude": "---/105",
+					"10000Altitude": "---/105"
+				}
+			},
+			"22000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "103/109",
+					"2000Altitude": "105/109",
+					"4000Altitude": "105/108",
+					"6000Altitude": "105/108",
+					"8000Altitude": "106/108",
+					"10000Altitude": "108/108"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "104/108",
+					"2000Altitude": "106/108",
+					"4000Altitude": "106/108",
+					"6000Altitude": "106/108",
+					"8000Altitude": "---/108",
+					"10000Altitude": "---/108"
+				}
+			},
+			"24000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "109/113",
+					"2000Altitude": "110/113",
+					"4000Altitude": "111/113",
+					"6000Altitude": "111/113",
+					"8000Altitude": "112/113",
+					"10000Altitude": "113/113"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "110/113",
+					"2000Altitude": "111/113",
+					"4000Altitude": "112/113",
+					"6000Altitude": "112/113",
+					"8000Altitude": "---/113",
+					"10000Altitude": "---/113"
+				}
+			},
+			"26000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "115/118",
+					"2000Altitude": "116/118",
+					"4000Altitude": "116/118",
+					"6000Altitude": "117/118",
+					"8000Altitude": "118/118",
+					"10000Altitude": "119/118"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "116/118",
+					"2000Altitude": "117/118",
+					"4000Altitude": "117/118",
+					"6000Altitude": "118/118",
+					"8000Altitude": "---/118",
+					"10000Altitude": "---/118"
+				}
+			},
+			"28000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "120/122",
+					"2000Altitude": "121/122",
+					"4000Altitude": "122/122",
+					"6000Altitude": "122/122",
+					"8000Altitude": "123/122",
+					"10000Altitude": "124/122"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "121/122",
+					"2000Altitude": "122/122",
+					"4000Altitude": "123/122",
+					"6000Altitude": "123/122",
+					"8000Altitude": "---/122",
+					"10000Altitude": "---/122"
+				}
+			},
+			"29000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "124/125",
+					"2000Altitude": "125/125",
+					"4000Altitude": "125/125",
+					"6000Altitude": "126/125",
+					"8000Altitude": "127/125",
+					"10000Altitude": "128/125"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "125/125",
+					"2000Altitude": "125/125",
+					"4000Altitude": "126/125",
+					"6000Altitude": "127/125",
+					"8000Altitude": "---/125",
+					"10000Altitude": "---/125"
+				}
+			}
+		}],
+
+		"FLAPS 15": [{
+			"18000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "98/106",
+					"2000Altitude": "98/106",
+					"4000Altitude": "98/105",
+					"6000Altitude": "98/104",
+					"8000Altitude": "98/103",
+					"10000Altitude": "98/102"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "98/105",
+					"2000Altitude": "98/104",
+					"4000Altitude": "98/103",
+					"6000Altitude": "98/102",
+					"8000Altitude": "98/102",
+					"10000Altitude": "98/102"
+				}
+			},
+			"20000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "98/105",
+					"2000Altitude": "98/105",
+					"4000Altitude": "98/104",
+					"6000Altitude": "98/103",
+					"8000Altitude": "98/102",
+					"10000Altitude": "98/102"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "98/103",
+					"2000Altitude": "98/103",
+					"4000Altitude": "98/102",
+					"6000Altitude": "98/102",
+					"8000Altitude": "99/102",
+					"10000Altitude": "99/102"
+				}
+			},
+			"22000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "100/104",
+					"2000Altitude": "101/104",
+					"4000Altitude": "101/104",
+					"6000Altitude": "102/104",
+					"8000Altitude": "103/104",
+					"10000Altitude": "104/104"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "101/104",
+					"2000Altitude": "102/104",
+					"4000Altitude": "103/104",
+					"6000Altitude": "104/104",
+					"8000Altitude": "104/104",
+					"10000Altitude": "104/104"
+				}
+			},
+			"24000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "109/109",
+					"2000Altitude": "110/109",
+					"4000Altitude": "111/109",
+					"6000Altitude": "111/109",
+					"8000Altitude": "112/109",
+					"10000Altitude": "113/109"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "107/109",
+					"2000Altitude": "108/109",
+					"4000Altitude": "108/109",
+					"6000Altitude": "109/109",
+					"8000Altitude": "110/109",
+					"10000Altitude": "110/109"
+				}
+			},
+			"26000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "111/113",
+					"2000Altitude": "112/113",
+					"4000Altitude": "112/113",
+					"6000Altitude": "113/113",
+					"8000Altitude": "114/113",
+					"10000Altitude": "114/113"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "112/113",
+					"2000Altitude": "113/113",
+					"4000Altitude": "114/113",
+					"6000Altitude": "114/113",
+					"8000Altitude": "115/113",
+					"10000Altitude": "115/113"
+				}
+			},
+			"28000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "116/118",
+					"2000Altitude": "117/118",
+					"4000Altitude": "117/118",
+					"6000Altitude": "118/118",
+					"8000Altitude": "118/118",
+					"10000Altitude": "119/118"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "117/118",
+					"2000Altitude": "118/118",
+					"4000Altitude": "119/118",
+					"6000Altitude": "119/118",
+					"8000Altitude": "120/118",
+					"10000Altitude": "120/118"
+				}
+			},
+			"29000Weight": {
+				"At or Below 20 Celsius OAT": {
+					"0Altitude": "119/120",
+					"2000Altitude": "120/120",
+					"4000Altitude": "120/120",
+					"6000Altitude": "121/120",
+					"8000Altitude": "122/120",
+					"10000Altitude": "122/120"
+				},
+				"Above 20 Celsius OAT": {
+					"0Altitude": "120/120",
+					"2000Altitude": "121/120",
+					"4000Altitude": "121/120",
+					"6000Altitude": "122/120",
+					"8000Altitude": "123/120",
+					"10000Altitude": "123/120"
+				}
+			}
+		}],
+
+		"FLAPS 5 LANDING": [{
+				"weight": "18000",
+				"V app": "115",
+				"V ref": "---",
+				"V ga": "109"
+			},
+			{
+				"weight": "20000",
+				"V app": "120",
+				"V ref": "---",
+				"V ga": "110"
+			},
+			{
+				"weight": "22000",
+				"V app": "126",
+				"V ref": "---",
+				"V ga": "115"
+			},
+			{
+				"weight": "24000",
+				"V app": "131",
+				"V ref": "---",
+				"V ga": "120"
+			},
+			{
+				"weight": "26000",
+				"V app": "137",
+				"V ref": "---",
+				"V ga": "125"
+			},
+			{
+				"weight": "28000",
+				"V app": "142",
+				"V ref": "---",
+				"V ga": "130"
+			},
+			{
+				"weight": "29000",
+				"V app": "146",
+				"V ref": "---",
+				"V ga": "134"
+			}
+		],
+
+		"FLAPS 10 LANDING": [{
+				"weight": "18000",
+				"V app": "109",
+				"V ref": "108",
+				"V ga": "108"
+			},
+			{
+				"weight": "20000",
+				"V app": "112",
+				"V ref": "112",
+				"V ga": "108"
+			},
+			{
+				"weight": "22000",
+				"V app": "117",
+				"V ref": "117",
+				"V ga": "108"
+			},
+			{
+				"weight": "24000",
+				"V app": "122",
+				"V ref": "122",
+				"V ga": "112"
+			},
+			{
+				"weight": "26000",
+				"V app": "127",
+				"V ref": "127",
+				"V ga": "117"
+			},
+			{
+				"weight": "28000",
+				"V app": "132",
+				"V ref": "132",
+				"V ga": "122"
+			},
+			{
+				"weight": "29000",
+				"V app": "136",
+				"V ref": "136",
+				"V ga": "125"
+			}
+		],
+
+		"FLAPS 15 LANDING": [{
+				"weight": "18000",
+				"V app": "106",
+				"V ref": "105",
+				"V ga": "105"
+			},
+			{
+				"weight": "20000",
+				"V app": "106",
+				"V ref": "106",
+				"V ga": "105"
+			},
+			{
+				"weight": "22000",
+				"V app": "112",
+				"V ref": "112",
+				"V ga": "105"
+			},
+			{
+				"weight": "24000",
+				"V app": "117",
+				"V ref": "117",
+				"V ga": "107"
+			},
+			{
+				"weight": "26000",
+				"V app": "122",
+				"V ref": "121",
+				"V ga": "111"
+			},
+			{
+				"weight": "28000",
+				"V app": "126",
+				"V ref": "126",
+				"V ga": "116"
+			},
+			{
+				"weight": "29000",
+				"V app": "129",
+				"V ref": "129",
+				"V ga": "119"
+			}
+		],
+
+		"FLAPS 35 LANDING": [{
+				"weight": "18000",
+				"V app": "---",
+				"V ref": "101",
+				"V ga": "---"
+			},
+			{
+				"weight": "20000",
+				"V app": "---",
+				"V ref": "102",
+				"V ga": "---"
+			},
+			{
+				"weight": "22000",
+				"V app": "---",
+				"V ref": "107",
+				"V ga": "---"
+			},
+			{
+				"weight": "24000",
+				"V app": "---",
+				"V ref": "112",
+				"V ga": "---"
+			},
+			{
+				"weight": "26000",
+				"V app": "---",
+				"V ref": "116",
+				"V ga": "---"
+			},
+			{
+				"weight": "28000",
+				"V app": "---",
+				"V ref": "120",
+				"V ga": "---"
+			},
+			{
+				"weight": "29000",
+				"V app": "---",
+				"V ref": "123",
+				"V ga": "---"
+			}
+		]
+	}
